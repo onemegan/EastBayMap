@@ -1,0 +1,41 @@
+OpenStreetMap Data Case Study: East Bay, California
+P3: Wrangle OpenStreetMap Data -- Udacity Data Science Nanodegree
+
+Megan O'Neil
+2016-11-21
+
+References used or referred to in this project:
+
+- Developing key_type function:
+https://discussions.udacity.com/t/quiz-tag-types/170228/2
+
+- Developing find_amenity and find_zip functions:
+https://discussions.udacity.com/t/quiz-tag-types/170228/2
+
+- Developing clean_st_name function:
+http://stackoverflow.com/questions/6266727/python-cut-off-the-last-word-of-a-sentence
+
+- Importing cerberus and using schema.py file to create csv files:
+https://discussions.udacity.com/t/final-project-importing-cerberus-and-schema/177231/2
+
+- Developing shape_element function
+https://discussions.udacity.com/t/help-cleaning-data/169833/6
+https://discussions.udacity.com/t/project-problem-cant-get-through-validate-element-el-validator/179544/28
+
+- Developing process_map function:
+http://stackoverflow.com/questions/11652806/csv-write-skipping-lines-when-writing-to-csv
+
+- Creating SQL database:
+https://discussions.udacity.com/t/upload-my-csv-files-sqlite/190795/5
+
+- Assessing size of SQL database:
+https://discussions.udacity.com/t/size-of-file-database-query/180429
+http://www.sqlite.org/pragma.html#pragma_page_count
+
+- Assesing dataset, determing SQL questions, determing ways to improve on database:
+Udacity sample project - https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+
+- Creating visualizations of SQL queries:
+http://stackoverflow.com/questions/14835852/convert-sql-result-to-list-python
+http://stackoverflow.com/questions/20638006/convert-list-of-dictionaries-to-dataframe
+http://stackoverflow.com/questions/26540035/rotate-label-text-in-seaborn-factorplot

@@ -1,0 +1,11 @@
+﻿OpenStreetMap Data Case Study: East Bay, California
+P3: Wrangle OpenStreetMap Data -- Udacity Data Science Nanodegree
+
+Megan O'Neil
+2016-11-21
+
+Map position wrangled in my project:
+https://mapzen.com/data/metro-extracts/your-extracts/ddd681acbf9f
+
+Short description of the area and a reason for your choice:
+I live in Oakland, California, which is in the East Bay of the San Francisco Bay Area. I’m interested to see what the database querying reveals, and would like an opportunity to contribute to its improvement on OpenStreetMap.org.  I am also interested in a Community Choice energy program which will create a public entity that procures electricity for the East Bay. I want the program to prioritize local renewable development, so am interested in learning to read maps of this area, as mapping is critical to understand what types of areas are suitable for solar or other renewable energy.
